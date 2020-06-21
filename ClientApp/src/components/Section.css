@@ -1,0 +1,8 @@
+﻿.section {
+    min-height: 300px;
+    width: 100%;
+}
+
+.section > h2 {
+    text-align: center;
+}
